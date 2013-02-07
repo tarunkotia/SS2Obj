@@ -1,0 +1,5 @@
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\SS2Obj\bin\Debug\SS2JSON.dll
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\SS2Obj\bin\Debug\SS2JSON.pdb
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\SS2Obj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\SS2Obj\obj\Debug\SS2JSON.dll
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\SS2Obj\obj\Debug\SS2JSON.pdb

@@ -1,0 +1,14 @@
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\bin\Debug\ConsoleOutput.exe
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\bin\Debug\SS2JSON.dll
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\bin\Debug\SS2JSON.pdb
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\obj\x86\Debug\ConsoleOutput.exe
+C:\FRI\FRXSDK\SStoJSON\SS2JSON\ConsoleOutput\obj\x86\Debug\ConsoleOutput.pdb
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\obj\x86\Debug\ConsoleOutput.exe
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\obj\x86\Debug\ConsoleOutput.pdb
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\bin\Debug\ConsoleOutput.exe
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\bin\Debug\SS2JSON.dll
+C:\Users\tkotia\FRI\FRXSDK\SStoObj\SS2Obj\ConsoleOutput\bin\Debug\SS2JSON.pdb
